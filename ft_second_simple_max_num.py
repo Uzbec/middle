@@ -1,4 +1,4 @@
-from middle import ft_min_num as mim, ft_max_num as maxx, \
+import ft_min_num as mim, ft_max_num as maxx, \
     ft_second_max_num as smm
 
 

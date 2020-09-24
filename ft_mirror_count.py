@@ -1,4 +1,4 @@
-from middle import ft_mirror_num as mir
+import ft_mirror_num as mir
 
 
 def ft_mirror_count(a):

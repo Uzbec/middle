@@ -1,4 +1,4 @@
-from middle import ft_rev_num as rev, ft_len_num as f
+import ft_rev_num as rev, ft_len_num as f
 
 
 def ft_mirror_num(a):

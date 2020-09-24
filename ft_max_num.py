@@ -1,4 +1,4 @@
-from middle import ft_len_num as f
+import ft_len_num as f
 
 
 def ft_max_num(a):
