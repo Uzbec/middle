@@ -1,4 +1,5 @@
-import ft_pow as pw, ft_len_num as f
+import ft_pow as pw
+import ft_len_num as f
 
 
 def ft_rev_bin_num(a):

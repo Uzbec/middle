@@ -1,5 +1,6 @@
-import ft_min_num as mim, ft_max_num as maxx, \
-    ft_second_max_num as smm
+import ft_min_num as mim
+import ft_max_num as maxx
+import ft_second_max_num as smm
 
 
 def ft_second_simple_max_num(a):
