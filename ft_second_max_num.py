@@ -1,5 +1,4 @@
-import ft_max_num as maxx
-import ft_len_num as f
+from middle import ft_max_num as maxx, ft_len_num as f
 
 
 def ft_second_max_num(a):

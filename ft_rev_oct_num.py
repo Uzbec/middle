@@ -1,5 +1,4 @@
-import ft_pow as pw
-import ft_len_num as f
+from middle import ft_pow as pw, ft_len_num as f
 
 
 def ft_rev_oct_num(a):

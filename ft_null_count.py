@@ -1,4 +1,4 @@
-import ft_len_num as f
+from middle import ft_len_num as f
 
 
 def ft_null_count(a):
